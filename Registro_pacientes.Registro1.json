@@ -1,0 +1,3267 @@
+[{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284784"
+  },
+  "No_ADMISION": 667946,
+  "TIPO_DOC": "TI",
+  "SEXO": "M",
+  "TIPO_ATENCION": "HOSPITALARIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "apendicitis "
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284785"
+  },
+  "No_ADMISION": 667952,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Otro",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284786"
+  },
+  "No_ADMISION": 667953,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "LUMBAGO CON CIATICA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284788"
+  },
+  "No_ADMISION": 667955,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Otro",
+  "NOMBRE_DIAGNOSTICO ": "CALCULO DEL RIÑON"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284789"
+  },
+  "No_ADMISION": 667956,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS EXAMENES GENERALES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428478a"
+  },
+  "No_ADMISION": 667957,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "MAREO Y DESVANECIMIENTO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428478b"
+  },
+  "No_ADMISION": 667958,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428478c"
+  },
+  "No_ADMISION": 667959,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Otro",
+  "NOMBRE_DIAGNOSTICO ": "OTROS TRASTORNOS ESPECIFICADOS DEL RIÑON Y DEL URETER"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428478d"
+  },
+  "No_ADMISION": 667960,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TRASTORNO DE ANSIEDAD. NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428478e"
+  },
+  "No_ADMISION": 667962,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EPICONDILITIS LATERAL"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428478f"
+  },
+  "No_ADMISION": 667963,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284790"
+  },
+  "No_ADMISION": 667964,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Otro",
+  "NOMBRE_DIAGNOSTICO ": "ESPOLON CALCANEO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284791"
+  },
+  "No_ADMISION": 667965,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284792"
+  },
+  "No_ADMISION": 667967,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EXAMEN DE PESQUISA ESPECIAL PARA TUMOR DEL CUELLO UTERINO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284794"
+  },
+  "No_ADMISION": 667969,
+  "TIPO_DOC": "TI",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EXAMEN DEL ESTADO DE DESARROLLO DEL ADOLESCENTE"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284795"
+  },
+  "No_ADMISION": 667970,
+  "TIPO_DOC": "RC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ANEMIA POR DEFICIENCIA DE HIERRO SIN OTRA ESPECIFICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284796"
+  },
+  "No_ADMISION": 667971,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Particular",
+  "NOMBRE_DIAGNOSTICO ": "CISTOCELE"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284797"
+  },
+  "No_ADMISION": 667972,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DISPLASIA CERVICAL LEVE"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284798"
+  },
+  "No_ADMISION": 667973,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SINDROME DE OVARIO POLIQUISTICO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284799"
+  },
+  "No_ADMISION": 657082,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "SINDROME DEL MANGUITO ROTATORIO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428479a"
+  },
+  "No_ADMISION": 667974,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DEL OVARIO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428479b"
+  },
+  "No_ADMISION": 667975,
+  "TIPO_DOC": "RC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "AUMENTO ANORMAL DE PESO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428479c"
+  },
+  "No_ADMISION": 667976,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "VARICES ESCROTALES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428479d"
+  },
+  "No_ADMISION": 667977,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION DE EMBARAZO DE ALTO RIESGO. SIN OTRA ESPECIFICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428479e"
+  },
+  "No_ADMISION": 667978,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Otro",
+  "NOMBRE_DIAGNOSTICO ": "CERVICALGIA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428479f"
+  },
+  "No_ADMISION": 667979,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "AFECCION ERITEMATOSA. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847a0"
+  },
+  "No_ADMISION": 667980,
+  "TIPO_DOC": "TI",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DESVIACION DEL TABIQUE NASAL"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847a1"
+  },
+  "No_ADMISION": 667981,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "INFECCION DE VIAS URINARIAS. SITIO NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847a2"
+  },
+  "No_ADMISION": 667982,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847a3"
+  },
+  "No_ADMISION": 667983,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTRAS DISPLASIAS MAMARIAS BENIGNAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847a4"
+  },
+  "No_ADMISION": 667984,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847a5"
+  },
+  "No_ADMISION": 667985,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "VAGINITIS. VULVITIS Y VULVOVAGINITIS EN ENF INFECCIOSAS Y PARASIT CEOP"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847a6"
+  },
+  "No_ADMISION": 667986,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847a7"
+  },
+  "No_ADMISION": 667989,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TRASTORNO DE LA GLANDULA TIROIDES. NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847a8"
+  },
+  "No_ADMISION": 667990,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "OTROS TRAST DE LA SANGRE Y DE ORGANOS HEMATOPOYETICOS EN ENF CEOP"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847a9"
+  },
+  "No_ADMISION": 667991,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "MICOSIS SUPERFICIAL. SIN OTRA ESPECIFICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847aa"
+  },
+  "No_ADMISION": 667992,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847ab"
+  },
+  "No_ADMISION": 667993,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CARIES LIMITADA AL ESMALTE"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847ac"
+  },
+  "No_ADMISION": 667994,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "BRONQUITIS AGUDA. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847ad"
+  },
+  "No_ADMISION": 667995,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ENFERMEDAD PULMONAR OBSTRUCTIVA CRONICA. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847ae"
+  },
+  "No_ADMISION": 667996,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "OBESIDAD DEBIDA A EXCESO DE CALORIAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847af"
+  },
+  "No_ADMISION": 667997,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPOTIROIDISMO. NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847b0"
+  },
+  "No_ADMISION": 667998,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERPLASIA DE GLANDULA DEL ENDOMETRIO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847b1"
+  },
+  "No_ADMISION": 667999,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERLIPIDEMIA MIXTA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847b2"
+  },
+  "No_ADMISION": 668001,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTRAS COLELITIASIS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847b3"
+  },
+  "No_ADMISION": 668002,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TAQUICARDIA SUPRAVENTRICULAR"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847b4"
+  },
+  "No_ADMISION": 668005,
+  "TIPO_DOC": "RC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "HIPOTONIA CONGENITA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847b5"
+  },
+  "No_ADMISION": 667475,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Otro",
+  "NOMBRE_DIAGNOSTICO ": "HEMORRAGIA VAGINAL Y UTERINA ANORMAL. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847b6"
+  },
+  "No_ADMISION": 668003,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "INSUFICIENCIA VENOSA (CRONICA) (PERIFERICA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847b7"
+  },
+  "No_ADMISION": 668006,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DOLOR EN EL PECHO AL RESPIRAR"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847b8"
+  },
+  "No_ADMISION": 668007,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DIABETES MELLITUS INSULINODEPENDIENTE. CON COMPLICACIONES RENALES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847b9"
+  },
+  "No_ADMISION": 668008,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Otro",
+  "NOMBRE_DIAGNOSTICO ": "ENFERMEDAD INFLAMATORIA DEL CUELLO UTERINO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847ba"
+  },
+  "No_ADMISION": 668009,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS DOLORES ABDOMINALES Y LOS NO ESPECIFICADOS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847bb"
+  },
+  "No_ADMISION": 668010,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ESGUINCES Y TORCEDURAS DEL TOBILLO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847bc"
+  },
+  "No_ADMISION": 668011,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "CONSULTA. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847bd"
+  },
+  "No_ADMISION": 668013,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TRASTORNO MIXTO DE ANSIEDAD Y DEPRESION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847be"
+  },
+  "No_ADMISION": 668014,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847bf"
+  },
+  "No_ADMISION": 668015,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SOSPECHA DE GLAUCOMA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847c0"
+  },
+  "No_ADMISION": 668018,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TUMEFACCION. MASA O PROMINENCIA LOCALIZADA EN PARTE NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847c1"
+  },
+  "No_ADMISION": 668019,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847c2"
+  },
+  "No_ADMISION": 668020,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OBESIDAD DEBIDA A EXCESO DE CALORIAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847c3"
+  },
+  "No_ADMISION": 668022,
+  "TIPO_DOC": "RC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "RINOFARINGITIS AGUDA (RESFRIADO COMUN)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847c4"
+  },
+  "No_ADMISION": 668023,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "FRACTURA DE LA EPIFISIS SUPERIOR DE LA TIBIA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847c5"
+  },
+  "No_ADMISION": 668024,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "OTROS CONTROLES GENERALES DE SALUD RUTINA OTR SUBPOBLACIONES DEFINIDAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847c6"
+  },
+  "No_ADMISION": 668025,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTRA OTITIS MEDIA AGUDA. NO SUPURATIVA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847c7"
+  },
+  "No_ADMISION": 668026,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION DE EMBARAZO DE ALTO RIESGO. SIN OTRA ESPECIFICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847c8"
+  },
+  "No_ADMISION": 668027,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS CONTROLES GENERALES DE SALUD RUTINA OTR SUBPOBLACIONES DEFINIDAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847c9"
+  },
+  "No_ADMISION": 668028,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TRASTORNO HIPERTROFICO DE LA PIEL. NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847ca"
+  },
+  "No_ADMISION": 668030,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTRAS SINOVITIS Y TENOSINOVITIS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847cb"
+  },
+  "No_ADMISION": 668031,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ARTROSIS. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847cc"
+  },
+  "No_ADMISION": 668033,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "AFEC RESP CR POR INHALACION DE GASES. HUMOS. VAPORES Y SUST QUIMICAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847cd"
+  },
+  "No_ADMISION": 668034,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DOLOR PELVICO Y PERINEAL"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847ce"
+  },
+  "No_ADMISION": 668035,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS EXAMENES GENERALES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847cf"
+  },
+  "No_ADMISION": 668036,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Otro",
+  "NOMBRE_DIAGNOSTICO ": "LUMBAGO NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847d0"
+  },
+  "No_ADMISION": 668039,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTRAS BURSITIS DE LA RODILLA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847d1"
+  },
+  "No_ADMISION": 668040,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DOLOR EN EL PECHO. NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847d2"
+  },
+  "No_ADMISION": 668041,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ESCABIOSIS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847d3"
+  },
+  "No_ADMISION": 668043,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TRAUMATISMO. NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847d4"
+  },
+  "No_ADMISION": 668045,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS CONTROLES GENERALES DE SALUD RUTINA OTR SUBPOBLACIONES DEFINIDAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847d5"
+  },
+  "No_ADMISION": 668046,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DOLOR PELVICO Y PERINEAL"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847d6"
+  },
+  "No_ADMISION": 668048,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERLIPIDEMIA NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847d7"
+  },
+  "No_ADMISION": 668049,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ABRASION DE LOS DIENTES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847d8"
+  },
+  "No_ADMISION": 668050,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847d9"
+  },
+  "No_ADMISION": 668051,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CARDIOMIOPATIA ISQUEMICA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847da"
+  },
+  "No_ADMISION": 668053,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EXAMEN ODONTOLOGICO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847db"
+  },
+  "No_ADMISION": 668054,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION DE EMBARAZO DE ALTO RIESGO. SIN OTRA ESPECIFICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847dc"
+  },
+  "No_ADMISION": 668055,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847dd"
+  },
+  "No_ADMISION": 668056,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847de"
+  },
+  "No_ADMISION": 668057,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ENFERMEDAD ATEROSCLEROTICA DEL CORAZON"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847df"
+  },
+  "No_ADMISION": 668058,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "VAGINITIS AGUDA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847e0"
+  },
+  "No_ADMISION": 668059,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "PROBLEMAS RELACIONADOS CON EMBARAZO NO DESEADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847e1"
+  },
+  "No_ADMISION": 668060,
+  "TIPO_DOC": "RC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "OTROS TRASTORNOS DEL DESARROLLO Y CRECIMIENTO OSEO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847e2"
+  },
+  "No_ADMISION": 668062,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DOLOR LOCALIZADO EN OTRAS PARTES INFERIORES DEL ABDOMEN"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847e3"
+  },
+  "No_ADMISION": 668069,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Otro",
+  "NOMBRE_DIAGNOSTICO ": "OTROS DOLORES ABDOMINALES Y LOS NO ESPECIFICADOS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847e4"
+  },
+  "No_ADMISION": 668070,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "VAGINITIS AGUDA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847e5"
+  },
+  "No_ADMISION": 668071,
+  "TIPO_DOC": "TI",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "RINOFARINGITIS AGUDA (RESFRIADO COMUN)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847e6"
+  },
+  "No_ADMISION": 668073,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "FRACTURA DE LOS DIENTES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847e7"
+  },
+  "No_ADMISION": 668074,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CARIES DENTARIA DETENIDA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847e8"
+  },
+  "No_ADMISION": 668075,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CATARATA. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847e9"
+  },
+  "No_ADMISION": 661352,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "LUMBAGO NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847ea"
+  },
+  "No_ADMISION": 663059,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "HOSPITALIZADO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "ESQUIZOFRENIA PARANOIDE"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847eb"
+  },
+  "No_ADMISION": 667587,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Otro",
+  "NOMBRE_DIAGNOSTICO ": "OTRAS ENTESOPATIAS DEL PIE"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847ec"
+  },
+  "No_ADMISION": 668077,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EXAMEN ODONTOLOGICO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847ed"
+  },
+  "No_ADMISION": 668078,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "AUMENTO ANORMAL DE PESO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847ee"
+  },
+  "No_ADMISION": 668080,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "DESNUTRICION PROTEICOCALORICA LEVE"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847ef"
+  },
+  "No_ADMISION": 668081,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "ENF POR VIRUS DE LA INMUNODEF HUMANA (VIH). SIN OTRA ESPECIFICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847f0"
+  },
+  "No_ADMISION": 668084,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "PAPILOMAVIRUS COMO CAUSA DE ENFERMEDADES CEOC"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847f1"
+  },
+  "No_ADMISION": 668086,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "Otros síndromes de colon irritable y los no especificados"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847f2"
+  },
+  "No_ADMISION": 668087,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ENFERMEDAD ATEROSCLEROTICA DEL CORAZON"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847f3"
+  },
+  "No_ADMISION": 668090,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS TRASTORNOS ESPECIFICADOS DE LA ENCIA Y DE LA ZONA EDENTULA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847f4"
+  },
+  "No_ADMISION": 668091,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTROFIA DE LOS CORNETES NASALES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847f5"
+  },
+  "No_ADMISION": 668092,
+  "TIPO_DOC": "RC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "INFECCION AGUDA NO ESPECIFICADA DE LAS VIAS RESPIRATORIAS INFERIORES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847f6"
+  },
+  "No_ADMISION": 668093,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DIABETES MELLITUS INSULINODEPENDIENTE. SIN MENCION DE COMPLICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847f7"
+  },
+  "No_ADMISION": 668094,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OBESIDAD. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847f8"
+  },
+  "No_ADMISION": 668095,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION DE EMBARAZO DE ALTO RIESGO. SIN OTRA ESPECIFICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847f9"
+  },
+  "No_ADMISION": 668097,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "MENSTRUACION IRREGULAR. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847fa"
+  },
+  "No_ADMISION": 668098,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847fb"
+  },
+  "No_ADMISION": 668099,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CARIES LIMITADA AL ESMALTE"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847fc"
+  },
+  "No_ADMISION": 668100,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847fd"
+  },
+  "No_ADMISION": 668101,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "AUMENTO ANORMAL DE PESO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847fe"
+  },
+  "No_ADMISION": 668104,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "LUMBAGO CON CIATICA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42847ff"
+  },
+  "No_ADMISION": 668105,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DOLOR EN EL PECHO. NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284800"
+  },
+  "No_ADMISION": 668106,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION EMBARAZO OTRO RIESGO EN HISTORIA OBSTETRICA O REPRODUCTIVA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284801"
+  },
+  "No_ADMISION": 668107,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "Fibromialgia"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284802"
+  },
+  "No_ADMISION": 668108,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DOLOR PELVICO Y PERINEAL"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284803"
+  },
+  "No_ADMISION": 668112,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CARIES DE LA DENTINA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284804"
+  },
+  "No_ADMISION": 668113,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CARIES LIMITADA AL ESMALTE"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284805"
+  },
+  "No_ADMISION": 668114,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SINDROME DE OVARIO POLIQUISTICO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284806"
+  },
+  "No_ADMISION": 668116,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284807"
+  },
+  "No_ADMISION": 668117,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EXAMEN DE LABORATORIO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284808"
+  },
+  "No_ADMISION": 668119,
+  "TIPO_DOC": "RC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ANEMIA DE TIPO NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284809"
+  },
+  "No_ADMISION": 668120,
+  "TIPO_DOC": "TI",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CEFALEA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428480a"
+  },
+  "No_ADMISION": 668121,
+  "TIPO_DOC": "TI",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ORZUELO Y OTRAS INFLAMACIONES PROFUNDAS DEL PARPADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428480b"
+  },
+  "No_ADMISION": 668122,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION DE EMBARAZO DE ALTO RIESGO. SIN OTRA ESPECIFICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428480c"
+  },
+  "No_ADMISION": 668124,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS DOLORES ABDOMINALES Y LOS NO ESPECIFICADOS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428480d"
+  },
+  "No_ADMISION": 668127,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERGLICERIDEMIA PURA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428480e"
+  },
+  "No_ADMISION": 668128,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HISTORIA FAMILIAR DE TUMOR MALIGNO DE MAMA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428480f"
+  },
+  "No_ADMISION": 668130,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284810"
+  },
+  "No_ADMISION": 668132,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EXAMEN MEDICO GENERAL"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284811"
+  },
+  "No_ADMISION": 668133,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284812"
+  },
+  "No_ADMISION": 668134,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284813"
+  },
+  "No_ADMISION": 668135,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LA MAMA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284814"
+  },
+  "No_ADMISION": 668136,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TRASTORNO MIXTO DE ANSIEDAD Y DEPRESION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284815"
+  },
+  "No_ADMISION": 668137,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DIABETES MELLITUS NO INSULINODEPENDIENTE. SIN MENCION DE COMPLICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284816"
+  },
+  "No_ADMISION": 668138,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ATENCION MATERNA POR CICATRIZ UTERINA DEBIDA A CIRUGIA PREVIA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284817"
+  },
+  "No_ADMISION": 668139,
+  "TIPO_DOC": "RC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "AUMENTO ANORMAL DE PESO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284818"
+  },
+  "No_ADMISION": 668140,
+  "TIPO_DOC": "RC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CONSULTA. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284819"
+  },
+  "No_ADMISION": 668141,
+  "TIPO_DOC": "PT",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "DIABETES MELLITUS NO INSULINODEPENDIENTE. SIN MENCION DE COMPLICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428481a"
+  },
+  "No_ADMISION": 668142,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DISPLASIA CERVICAL LEVE"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428481b"
+  },
+  "No_ADMISION": 668143,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428481c"
+  },
+  "No_ADMISION": 668144,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION DEL USO DE DROGAS ANTICONCEPTIVAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428481d"
+  },
+  "No_ADMISION": 668146,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EXAMEN ODONTOLOGICO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428481e"
+  },
+  "No_ADMISION": 668149,
+  "TIPO_DOC": "RC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "NACIDO VIVO. UNICO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428481f"
+  },
+  "No_ADMISION": 668150,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "MALESTAR Y FATIGA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284820"
+  },
+  "No_ADMISION": 668151,
+  "TIPO_DOC": "RC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "RETARDO DEL DESARROLLO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284821"
+  },
+  "No_ADMISION": 668153,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CARIES LIMITADA AL ESMALTE"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284822"
+  },
+  "No_ADMISION": 668154,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "LEIOMIOMA DEL UTERO. SIN OTRA ESPECIFICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284823"
+  },
+  "No_ADMISION": 668155,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTRA OTITIS MEDIA AGUDA. NO SUPURATIVA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284824"
+  },
+  "No_ADMISION": 668157,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ABRASION DE LOS DIENTES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284825"
+  },
+  "No_ADMISION": 668158,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DIABETES MELLITUS INSULINODEPENDIENTE. SIN MENCION DE COMPLICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284826"
+  },
+  "No_ADMISION": 668159,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284827"
+  },
+  "No_ADMISION": 668162,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DISPLASIA CERVICAL LEVE"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284828"
+  },
+  "No_ADMISION": 668163,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CISTITIS AGUDA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284829"
+  },
+  "No_ADMISION": 668164,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Otro",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428482a"
+  },
+  "No_ADMISION": 668165,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CARIES DE LA DENTINA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428482b"
+  },
+  "No_ADMISION": 668166,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTRAS CONSULTAS ESPECIFICADAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428482c"
+  },
+  "No_ADMISION": 668167,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS DOLORES ABDOMINALES Y LOS NO ESPECIFICADOS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428482d"
+  },
+  "No_ADMISION": 668168,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OBESIDAD DEBIDA A EXCESO DE CALORIAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428482e"
+  },
+  "No_ADMISION": 668171,
+  "TIPO_DOC": "PT",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Otro",
+  "NOMBRE_DIAGNOSTICO ": "DOLOR PELVICO Y PERINEAL"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428482f"
+  },
+  "No_ADMISION": 668173,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ABRASION DE LOS DIENTES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284830"
+  },
+  "No_ADMISION": 668174,
+  "TIPO_DOC": "RC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "Gastroenteritis y colitis de origen no especificado"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284831"
+  },
+  "No_ADMISION": 668175,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "LUPUS ERITEMATOSO SISTEMICO CON COMPROMISO DE ORGANOS O SISTEMAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284832"
+  },
+  "No_ADMISION": 668177,
+  "TIPO_DOC": "RC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DERMATITIS ATOPICA. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284833"
+  },
+  "No_ADMISION": 668178,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "AUMENTO ANORMAL DE PESO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284834"
+  },
+  "No_ADMISION": 668179,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS DOLORES ABDOMINALES Y LOS NO ESPECIFICADOS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284835"
+  },
+  "No_ADMISION": 668180,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION DE EMBARAZO DE ALTO RIESGO. SIN OTRA ESPECIFICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284836"
+  },
+  "No_ADMISION": 668182,
+  "TIPO_DOC": "RC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EXAMEN ODONTOLOGICO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284837"
+  },
+  "No_ADMISION": 668183,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "URGENCIAS",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CARIES DE LA DENTINA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284838"
+  },
+  "No_ADMISION": 668184,
+  "TIPO_DOC": "RC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CONTROL DE SALUD DE RUTINA DEL NIÑO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284839"
+  },
+  "No_ADMISION": 668187,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EXAMEN DE PESQUISA ESPECIAL PARA TUMOR DE LA MAMA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428483a"
+  },
+  "No_ADMISION": 668190,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "LECT ELEVADA PRES SANGUINEA SIN DIAGN HPT"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428483b"
+  },
+  "No_ADMISION": 668191,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERCOLESTEROLEMIA PURA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428483c"
+  },
+  "No_ADMISION": 668192,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428483d"
+  },
+  "No_ADMISION": 668193,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS TRASTORNOS DE ANSIEDAD ESPECIFICADOS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428483e"
+  },
+  "No_ADMISION": 668194,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TUMEFACCION. MASA O PROMINENCIA LOCALIZADA EN PARTE NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428483f"
+  },
+  "No_ADMISION": 668195,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284840"
+  },
+  "No_ADMISION": 668196,
+  "TIPO_DOC": "RC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CARIES DE LA DENTINA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284841"
+  },
+  "No_ADMISION": 668197,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ABRASION DE LOS DIENTES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284842"
+  },
+  "No_ADMISION": 668198,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION DE EMBARAZO DE ALTO RIESGO. SIN OTRA ESPECIFICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284843"
+  },
+  "No_ADMISION": 668199,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "ARTRITIS REUMATOIDE. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284844"
+  },
+  "No_ADMISION": 668202,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS TRASTORNOS ESPECIFICADOS DE LA SINOVIA Y DEL TENDON"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284845"
+  },
+  "No_ADMISION": 668203,
+  "TIPO_DOC": "TI",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DESVIACION DEL TABIQUE NASAL"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284846"
+  },
+  "No_ADMISION": 668205,
+  "TIPO_DOC": "RC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "RINOFARINGITIS AGUDA (RESFRIADO COMUN)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284847"
+  },
+  "No_ADMISION": 668206,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS PROBLEMAS ESPECIF RELACIONADOS CON CIRCUNSTANCIAS PSICOSOCIALES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284848"
+  },
+  "No_ADMISION": 668210,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION DE EMBARAZO DE ALTO RIESGO. SIN OTRA ESPECIFICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284849"
+  },
+  "No_ADMISION": 668211,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CARIES DENTARIA DETENIDA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428484a"
+  },
+  "No_ADMISION": 668212,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Otro",
+  "NOMBRE_DIAGNOSTICO ": "HEMORRAGIA SUBDURAL TRAUMATICA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428484b"
+  },
+  "No_ADMISION": 668213,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ABRASION DE LOS DIENTES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428484c"
+  },
+  "No_ADMISION": 668215,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HGOS ANOR MTRAS ORG GENIT FEM. CITOLOG ANOR. FROTIS ANOR PAPANICOLAOU"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428484d"
+  },
+  "No_ADMISION": 668216,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EXAMEN PESQUISA ESPECIAL PARA INFECC TRANSMISION PREDOMINANTE SEXUAL"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428484e"
+  },
+  "No_ADMISION": 668219,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EXAMEN MEDICO GENERAL"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428484f"
+  },
+  "No_ADMISION": 668220,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION EMBARAZO OTRO RIESGO EN HISTORIA OBSTETRICA O REPRODUCTIVA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284850"
+  },
+  "No_ADMISION": 668227,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CEFALEA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284851"
+  },
+  "No_ADMISION": 668229,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DOLOR PELVICO Y PERINEAL"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284852"
+  },
+  "No_ADMISION": 668230,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS CONTROLES GENERALES DE SALUD RUTINA OTR SUBPOBLACIONES DEFINIDAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284853"
+  },
+  "No_ADMISION": 668233,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION DE OTROS EMBARAZOS DE ALTO RIESGO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284854"
+  },
+  "No_ADMISION": 668234,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION EMBARAZO OTRO RIESGO EN HISTORIA OBSTETRICA O REPRODUCTIVA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284855"
+  },
+  "No_ADMISION": 663665,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "HOSPITALIZADO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "TRAST MENTALES Y DEL COMPORTAM POR USO DE COCAINA. TRASTORNO PSICOTICO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284856"
+  },
+  "No_ADMISION": 668237,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TRASTORNO DE LA GLANDULA TIROIDES. NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284857"
+  },
+  "No_ADMISION": 668238,
+  "TIPO_DOC": "TI",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Particular",
+  "NOMBRE_DIAGNOSTICO ": "AMIGDALITIS ESTREPTOCOCICA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284858"
+  },
+  "No_ADMISION": 668239,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ABRASION DE LOS DIENTES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284859"
+  },
+  "No_ADMISION": 668240,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HEMORRAGIA VAGINAL Y UTERINA ANORMAL. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428485a"
+  },
+  "No_ADMISION": 668245,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TOS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428485b"
+  },
+  "No_ADMISION": 668246,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "AMENAZA DE ABORTO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428485c"
+  },
+  "No_ADMISION": 668248,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CEFALEA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428485d"
+  },
+  "No_ADMISION": 668251,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DOLOR PRECORDIAL"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428485e"
+  },
+  "No_ADMISION": 668252,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERCOLESTEROLEMIA PURA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428485f"
+  },
+  "No_ADMISION": 668253,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Otro",
+  "NOMBRE_DIAGNOSTICO ": "COLICO RENAL. NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284860"
+  },
+  "No_ADMISION": 668254,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DORSALGIA. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284861"
+  },
+  "No_ADMISION": 668255,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTRA OTITIS MEDIA AGUDA. NO SUPURATIVA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284862"
+  },
+  "No_ADMISION": 668256,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TRASTORNOS DE DISCO LUMBAR Y OTROS. CON RADICULOPATIA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284863"
+  },
+  "No_ADMISION": 668257,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284864"
+  },
+  "No_ADMISION": 668260,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "OTRAS PERCEPCIONES AUDITIVAS ANORMALES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284865"
+  },
+  "No_ADMISION": 668263,
+  "TIPO_DOC": "RC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CONTROL DE SALUD DE RUTINA DEL NIÑO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284866"
+  },
+  "No_ADMISION": 668264,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS TRASTORNOS ESPECIFICADOS DISCOS INTERVERTEBRALES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284867"
+  },
+  "No_ADMISION": 668265,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TRASTORNOS INFLAMATORIOS DE LA MAMA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284868"
+  },
+  "No_ADMISION": 668266,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS CONTROLES GENERALES DE SALUD RUTINA OTR SUBPOBLACIONES DEFINIDAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284869"
+  },
+  "No_ADMISION": 668268,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EPICONDILITIS MEDIA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428486a"
+  },
+  "No_ADMISION": 668269,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428486b"
+  },
+  "No_ADMISION": 668271,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DEDO EN GATILLO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428486c"
+  },
+  "No_ADMISION": 668272,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "VISION SUBNORMAL DE AMBOS OJOS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428486d"
+  },
+  "No_ADMISION": 668273,
+  "TIPO_DOC": "RC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CONTROL DE SALUD DE RUTINA DEL NIÑO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428486e"
+  },
+  "No_ADMISION": 668274,
+  "TIPO_DOC": "RC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "PROBLEMAS RELACIONADOS CON EL APOYO FAMILIAR INADECUADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428486f"
+  },
+  "No_ADMISION": 668275,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "EPISODIO DEPRESIVO MODERADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284870"
+  },
+  "No_ADMISION": 668276,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS TRASTORNOS INTERNOS DE LA RODILLA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284871"
+  },
+  "No_ADMISION": 668278,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CARIES DENTARIA DETENIDA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284872"
+  },
+  "No_ADMISION": 668280,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "TUMEFACCION. MASA O PROMINENCIA INTRAABDOMINAL Y PELVICA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284873"
+  },
+  "No_ADMISION": 668281,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION DE EMBARAZO DE ALTO RIESGO. SIN OTRA ESPECIFICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284874"
+  },
+  "No_ADMISION": 668284,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EXAMEN DE OJOS Y DE LA VISION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284875"
+  },
+  "No_ADMISION": 668285,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DOLOR EN MIEMBRO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284876"
+  },
+  "No_ADMISION": 668286,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CERVICALGIA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284877"
+  },
+  "No_ADMISION": 668287,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "HIPERTENSION ESENCIAL (PRIMARIA)"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284878"
+  },
+  "No_ADMISION": 668288,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS SINTOMAS Y SIGNOS QUE INVOLUCRAN EL SIST URINARIO Y LOS NO ESPEC"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284879"
+  },
+  "No_ADMISION": 668289,
+  "TIPO_DOC": "TI",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EXAMEN DURANTE EL PERIODO DE CRECIMIENTO RAPIDO EN LA INFANCIA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428487a"
+  },
+  "No_ADMISION": 668496,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DOLOR LOCALIZADO EN OTRAS PARTES INFERIORES DEL ABDOMEN"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428487b"
+  },
+  "No_ADMISION": 668497,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION DE EMBARAZO NORMAL NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428487c"
+  },
+  "No_ADMISION": 668498,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ESTADOS MENOPAUSICOS Y CLIMATERICOS FEMENINOS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428487d"
+  },
+  "No_ADMISION": 668499,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS SIGNOS Y SINTOMAS RELATIVOS A LA MAMA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428487e"
+  },
+  "No_ADMISION": 668500,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DISPLASIA CERVICAL LEVE"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428487f"
+  },
+  "No_ADMISION": 668501,
+  "TIPO_DOC": "RC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "ADENOMEGALIA LOCALIZADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284880"
+  },
+  "No_ADMISION": 668503,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CONTUSION DE LA RODILLA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284881"
+  },
+  "No_ADMISION": 668507,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS TIPOS DE OBESIDAD"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284882"
+  },
+  "No_ADMISION": 668508,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS CONTROLES GENERALES DE SALUD RUTINA OTR SUBPOBLACIONES DEFINIDAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284883"
+  },
+  "No_ADMISION": 668513,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DISPLASIA CERVICAL LEVE"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284884"
+  },
+  "No_ADMISION": 668514,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Particular",
+  "NOMBRE_DIAGNOSTICO ": "OTROS EXAMENES GENERALES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284885"
+  },
+  "No_ADMISION": 668515,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ATENCION MATERNA POR CICATRIZ UTERINA DEBIDA A CIRUGIA PREVIA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284886"
+  },
+  "No_ADMISION": 668516,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DISPLASIA CERVICAL LEVE"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284887"
+  },
+  "No_ADMISION": 668517,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DORSALGIA. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284888"
+  },
+  "No_ADMISION": 668518,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EXAMEN ODONTOLOGICO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284889"
+  },
+  "No_ADMISION": 668520,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428488a"
+  },
+  "No_ADMISION": 668522,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428488b"
+  },
+  "No_ADMISION": 668523,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "DIABETES MELLITUS NO INSULINODEPENDIENTE. SIN MENCION DE COMPLICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428488c"
+  },
+  "No_ADMISION": 668524,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428488d"
+  },
+  "No_ADMISION": 668525,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "PARTO POR CESAREA. SIN OTRA ESPECIFICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428488e"
+  },
+  "No_ADMISION": 668526,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS CONTROLES GENERALES DE SALUD RUTINA OTR SUBPOBLACIONES DEFINIDAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428488f"
+  },
+  "No_ADMISION": 668528,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EXAMEN ODONTOLOGICO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284890"
+  },
+  "No_ADMISION": 668529,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "VAGINITIS AGUDA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284891"
+  },
+  "No_ADMISION": 668533,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS TRASTORNOS ESPECIFICADOS NO INFLAMATORIOS DE LA VAGINA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284892"
+  },
+  "No_ADMISION": 668537,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "CONSULTA. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284893"
+  },
+  "No_ADMISION": 668541,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "SUPERVISION DE EMBARAZO DE ALTO RIESGO. SIN OTRA ESPECIFICACION"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284894"
+  },
+  "No_ADMISION": 668556,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ESTADOS MENOPAUSICOS Y CLIMATERICOS FEMENINOS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284895"
+  },
+  "No_ADMISION": 668560,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS CONTROLES GENERALES DE SALUD RUTINA OTR SUBPOBLACIONES DEFINIDAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284896"
+  },
+  "No_ADMISION": 668562,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS CONTROLES GENERALES DE SALUD RUTINA OTR SUBPOBLACIONES DEFINIDAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284897"
+  },
+  "No_ADMISION": 668563,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS CONTROLES GENERALES DE SALUD RUTINA OTR SUBPOBLACIONES DEFINIDAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284898"
+  },
+  "No_ADMISION": 668565,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OTROS CONTROLES GENERALES DE SALUD RUTINA OTR SUBPOBLACIONES DEFINIDAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca4284899"
+  },
+  "No_ADMISION": 668580,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "PROBLEMAS RELACIONADOS CON RUPTURA FAMILIAR POR SEPARACION O DIVORCIO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428489a"
+  },
+  "No_ADMISION": 668584,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "EPICONDILITIS MEDIA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428489b"
+  },
+  "No_ADMISION": 668586,
+  "TIPO_DOC": "RC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "TRASTORNO DEL DESARROLLO DE LAS HABILIDADES ESCOLARES. NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428489c"
+  },
+  "No_ADMISION": 668589,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "HIPOTIROIDISMO. NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428489d"
+  },
+  "No_ADMISION": 668591,
+  "TIPO_DOC": "TI",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "CONSULTA. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428489e"
+  },
+  "No_ADMISION": 668593,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "ABRASION DE LOS DIENTES"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca428489f"
+  },
+  "No_ADMISION": 668594,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "OBESIDAD. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42848a0"
+  },
+  "No_ADMISION": 668595,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "ESTADOS MENOPAUSICOS Y CLIMATERICOS FEMENINOS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42848a1"
+  },
+  "No_ADMISION": 668596,
+  "TIPO_DOC": "TI",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "OBESIDAD. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42848a2"
+  },
+  "No_ADMISION": 669316,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "HOSPITALIZADO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "EPISODIO DEPRESIVO GRAVE SIN SINTOMAS PSICOTICOS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42848a3"
+  },
+  "No_ADMISION": 670110,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "OTRAS COLELITIASIS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42848a4"
+  },
+  "No_ADMISION": 670121,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "COLICO RENAL. NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42848a5"
+  },
+  "No_ADMISION": 657191,
+  "TIPO_DOC": "RC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "TRASTORNO DEL DESARROLLO DEL HABLA Y DEL LENGUAJE NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42848a6"
+  },
+  "No_ADMISION": 660004,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Otro",
+  "NOMBRE_DIAGNOSTICO ": "VARICES PELVICAS"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42848a7"
+  },
+  "No_ADMISION": 660447,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "OTROS TRASTORNOS INTERNOS DE LA RODILLA"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42848a8"
+  },
+  "No_ADMISION": 660956,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "HOSPITALIZADO",
+  "REGIMEN": "Subsidiado",
+  "NOMBRE_DIAGNOSTICO ": "TRAST MENT COMPORT USO MPLES DROG OTR SUST PSICOACT TRAST MENT COMPORT"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42848a9"
+  },
+  "No_ADMISION": 668123,
+  "TIPO_DOC": "CC",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "LUMBAGO NO ESPECIFICADO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42848aa"
+  },
+  "No_ADMISION": 668326,
+  "TIPO_DOC": "RC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TRASTORNO NO ESPECIFICADO DEL TONO MUSCULAR EN EL RECIEN NACIDO"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42848ab"
+  },
+  "No_ADMISION": 668826,
+  "TIPO_DOC": "CC",
+  "SEXO": "F",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "TRASTORNOS DE LA ARTICULACION TEMPOROMAXILAR"
+},
+{
+  "_id": {
+    "$oid": "68255537bbc1e89ca42848ac"
+  },
+  "No_ADMISION": 668827,
+  "TIPO_DOC": "TI",
+  "SEXO": "M",
+  "TIPO_ATENCION": "AMBULATORIO",
+  "REGIMEN": "Contributivo",
+  "NOMBRE_DIAGNOSTICO ": "FIEBRE. NO ESPECIFICADA"
+},
+{
+  "_id": {
+    "$oid": "6825625abbc1e89ca42848bc"
+  },
+  "No_ADMISION": 668828,
+  "TIPO_DOC": "TI",
+  "SEXO": "F",
+  "TIPO_ATENCION": "HOSPITALARIO",
+  "REGIMEN": "OTRO",
+  "NOMBRE_DIAGNOSTICO": "VIROSIS"
+},
+{
+  "_id": {
+    "$oid": "6825630dbbc1e89ca42848be"
+  },
+  "No_ADMISION": 999999,
+  "TIPO_DOC": "CE",
+  "SEXO": "F",
+  "TIPO_ATENCION": "HOSPITALARIO",
+  "REGIMEN": "OTRO",
+  "NOMBRE_DIAGNOSTICO": "TRASPLANTE DE RIÑON"
+}]
